@@ -4,4 +4,4 @@
 
 Photo of me presenting a real time object detection application using deep learning and openCV.
 
-[!alt text](https://github.com/aayushmnit/Data-science-presentation/blob/master/Introduction%20to%20Keras/600_464528068.jpeg)
+![alt text](https://github.com/aayushmnit/Data-science-presentation/blob/master/Introduction%20to%20Keras/600_464528068.jpeg)
