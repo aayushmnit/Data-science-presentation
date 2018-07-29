@@ -9,4 +9,4 @@ Important information -
 - Running flask through docker go to "docker" folder
 
 Photo of me presenting -
-![alt text](https://github.com/aayushmnit/Data-science-presentation/blob/master/Deep_dive_in_hierarchical_clustering/20171011_201451.jpg)
+![alt text](https://raw.githubusercontent.com/aayushmnit/Data-science-presentation/master/Model_building_interpretability_deployment/photo.jpeg)
